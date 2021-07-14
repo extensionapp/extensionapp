@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Download my on App Store: https://apps.apple.com/us/app/x-app/id1533525753
+Download X.app: https://apps.apple.com/us/app/x-app/id1533525753
 
 <!--
 **devarty/devarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
